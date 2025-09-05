@@ -38,7 +38,7 @@ float R0_MQ136 = 12.0;
 #define A_MQ136 5.944
 #define B_MQ136 -2.222
 
-// ---------- PMS5003 Data Structure ---------
+// ---------- PMS5003 Data Structure --------
 struct pms5003data {
   uint16_t framelen;
   uint16_t pm10_standard, pm25_standard, pm100_standard;
