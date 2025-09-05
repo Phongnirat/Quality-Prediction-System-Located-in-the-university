@@ -1,2 +1,2 @@
-# Quality-Prediction-System-Located-in-the-university
-อุปกรณ์ตรวจวัดคุณภาพอากาศ (Air Quality Monitoring Device)
+# Air Quality Forecasting System University Air Quality
+อุปกรณ์ตรวจวัดคุณภาพอากาศ (Air Quality Forecasting System University Air Quality)
